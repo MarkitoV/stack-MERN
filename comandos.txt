@@ -14,3 +14,11 @@
     nodemon: el servidor se reiniciará solo cuando guardemos cambios en el código
 
     npm i nodemon -D
+
+    añadir esta linea a los scrips de package.json:
+
+    "dev": "nodemon src/index.js"
+
+4.- para inicar el servicio, en la consola de comandos escribir:
+
+    npm run dev
