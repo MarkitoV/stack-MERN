@@ -1,0 +1,16 @@
+1.- inicar el proyecto de NODE:
+
+    npm init -y
+
+2.- instalar las siguientes dependencias para nuestro proyecto:
+    express : instala express en nuestro proyecto
+    mongosse: permite conectarnos con nuestra BdD Mongo
+    cors    : permite conectar el backend con el frontend
+    dotenv  : para controlar las variables de entorno
+
+    npm i express mongoose cors dotenv
+
+3.- instalar las siguientes dependencias solo para el desarrollo del proyecto:
+    nodemon: el servidor se reiniciará solo cuando guardemos cambios en el código
+
+    npm i nodemon -D
