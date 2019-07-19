@@ -1,3 +1,5 @@
+PARA LA IMPLEMENTACIÓN DEL BACKEND
+
 1.- inicar el proyecto de NODE:
 
     npm init -y
@@ -22,3 +24,19 @@
 4.- para inicar el servicio, en la consola de comandos escribir:
 
     npm run dev
+
+PARA LA IMPLEMENTACIÓN DEL FRONTEND
+
+1.- para crear la aplicación de React usar el comando npx create-react-app y el nombre 
+    de la aplicaición, p. e.:
+
+    npx create-react-app frontend
+
+2.- para iniciar la aplicación de React usar el comando:
+
+    npm start
+
+3.- dentro de la carpeta del proyecto de React, instalar el módulo para el manejo de las
+    rutas de nuestra aplicación:
+
+    npm install react-router-dom
