@@ -41,6 +41,10 @@ PARA LA IMPLEMENTACIÓN DEL FRONTEND
 
     npm install react-router-dom
 
-4.- para instalar bootstrap en nuestra aplicación:
+4.- dentro del frontend, instalamos bootstrap en nuestra aplicación:
 
     npm install bootstrap
+
+5.- dentro de la carpeta del frontend, instalamos axios:
+
+    npm install axios
