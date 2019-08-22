@@ -40,3 +40,7 @@ PARA LA IMPLEMENTACIÓN DEL FRONTEND
     rutas de nuestra aplicación:
 
     npm install react-router-dom
+
+4.- para instalar bootstrap en nuestra aplicación:
+
+    npm install bootstrap
