@@ -48,3 +48,9 @@ PARA LA IMPLEMENTACIÓN DEL FRONTEND
 5.- dentro de la carpeta del frontend, instalamos axios:
 
     npm install axios
+
+6.-  para instalar el objeto calendario para react
+
+    npm install react-datepicker
+
+    video 12 15:52
