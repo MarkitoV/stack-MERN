@@ -53,4 +53,6 @@ PARA LA IMPLEMENTACIÓN DEL FRONTEND
 
     npm install react-datepicker
 
-    video 12 15:52
+7.- para mostrar las fechas en un formato legible instalamos:
+
+    npm install timeago.js
